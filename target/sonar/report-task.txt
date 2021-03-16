@@ -1,0 +1,7 @@
+organization=productms2
+projectKey=com.infosys.fa4project:ProductMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18187
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.infosys.fa4project%3AProductMS
+ceTaskId=AXg5sWx0N2ef0vYJoBCc
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXg5sWx0N2ef0vYJoBCc

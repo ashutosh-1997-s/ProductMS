@@ -1,0 +1,77 @@
+
+³com.infosys.fa4project.product.dto.SubscribedProductDTO#valueOf(Lcom/infosys/fa4project/product/entity/SubscribedProduct;)Lcom/infosys/fa4project/product/dto/SubscribedProductDTO;n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java)$ )(+"1*æ
+1n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java*. *(Hëè
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java*2 *(F=
+%07com.infosys.fa4project.product.dto.SubscribedProductDTO"7com.infosys.fa4project.product.dto.SubscribedProductDTOý
+ú
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java*. *(H
+%1"Acom.infosys.fa4project.product.dto.SubscribedProductDTO#<init>()V*?
+=
+%07com.infosys.fa4project.product.dto.SubscribedProductDTO‹
+ˆ
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java* *(IO
+subscribedProductDTO7com.infosys.fa4project.product.dto.SubscribedProductDTO"__id*?
+=
+%07com.infosys.fa4project.product.dto.SubscribedProductDTOóð
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java+! +(=1
+%2+com.infosys.fa4project.product.entity.MyKey"ocom.infosys.fa4project.product.entity.SubscribedProduct#getMyKey()Lcom/infosys/fa4project/product/entity/MyKey;*N
+L
+subscribedProduct7com.infosys.fa4project.product.entity.SubscribedProduct2
+getMyKey()š—
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java+! +(I
+%3java.lang.Integer"Jcom.infosys.fa4project.product.entity.MyKey#getProdId()Ljava/lang/Integer;*3
+1
+%2+com.infosys.fa4project.product.entity.MyKey2getProdId()æã
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java+ +(J
+
+%4void"Wcom.infosys.fa4project.product.dto.SubscribedProductDTO#setProdId(Ljava/lang/Integer;)V*Q
+O
+subscribedProductDTO7com.infosys.fa4project.product.dto.SubscribedProductDTO*
+
+%3java.lang.Integer2setProdId(Ljava/lang/Integer;)óð
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java," ,(>1
+%5+com.infosys.fa4project.product.entity.MyKey"ocom.infosys.fa4project.product.entity.SubscribedProduct#getMyKey()Lcom/infosys/fa4project/product/entity/MyKey;*N
+L
+subscribedProduct7com.infosys.fa4project.product.entity.SubscribedProduct2
+getMyKey()œ™
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java," ,(K
+%6java.lang.Integer"Kcom.infosys.fa4project.product.entity.MyKey#getBuyerId()Ljava/lang/Integer;*3
+1
+%5+com.infosys.fa4project.product.entity.MyKey2getBuyerId()èå
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java, ,(L
+
+%7void"Xcom.infosys.fa4project.product.dto.SubscribedProductDTO#setBuyerId(Ljava/lang/Integer;)V*Q
+O
+subscribedProductDTO7com.infosys.fa4project.product.dto.SubscribedProductDTO*
+
+%6java.lang.Integer2setBuyerId(Ljava/lang/Integer;)ÅÂ
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java-# -(B
+%8java.lang.Integer"Xcom.infosys.fa4project.product.entity.SubscribedProduct#getQuantity()Ljava/lang/Integer;*N
+L
+subscribedProduct7com.infosys.fa4project.product.entity.SubscribedProduct2getQuantity()êç
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java- -(C
+
+%9void"Ycom.infosys.fa4project.product.dto.SubscribedProductDTO#setQuantity(Ljava/lang/Integer;)V*Q
+O
+subscribedProductDTO7com.infosys.fa4project.product.dto.SubscribedProductDTO*
+
+%8java.lang.Integer2 setQuantity(Ljava/lang/Integer;)"Ã
+n
+dC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/dto/SubscribedProductDTO.java. .(Q
+O
+subscribedProductDTO7com.infosys.fa4project.product.dto.SubscribedProductDTO:L
+subscribedProduct7com.infosys.fa4project.product.entity.SubscribedProductB;"9
+7com.infosys.fa4project.product.dto.SubscribedProductDTO

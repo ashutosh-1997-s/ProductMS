@@ -1,0 +1,35 @@
+
+\com.infosys.fa4project.product.controller.ProductController#getAllProducts()Ljava/util/List;r
+hC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/controller/ProductController.java& &('"1*∑
+
+1r
+hC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/controller/ProductController.java' '(‚
+ﬂ
+r
+hC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/controller/ProductController.java' '(
+%0org.slf4j.Logger"__id*K*I=
+;com.infosys.fa4project.product.controller.ProductController"
+logger˛˚
+r
+hC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/controller/ProductController.java' '(&
+
+%1void"*org.slf4j.Logger#info(Ljava/lang/String;)V*
+
+%0org.slf4j.Logger*
+Fetching all products2info(Ljava/lang/String;)è
+å
+r
+hC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/controller/ProductController.java(	 ((;
+%25com.infosys.fa4project.product.service.ProductService"__id*S*Q=
+;com.infosys.fa4project.product.controller.ProductController"
+productService∂≥
+r
+hC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/controller/ProductController.java(	 (((
+%3java.util.List"Vcom.infosys.fa4project.product.service.ProductService#getAllProducts()Ljava/util/List;*=
+;
+%25com.infosys.fa4project.product.service.ProductService2getAllProducts()"å
+r
+hC:/project/fa4/ProductsMS/src/main/java/com/infosys/fa4project/product/controller/ProductController.java( (()
+
+%3java.util.ListB?=
+;com.infosys.fa4project.product.controller.ProductController
